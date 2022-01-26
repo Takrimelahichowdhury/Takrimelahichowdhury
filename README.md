@@ -14,14 +14,14 @@
   
   <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/muhammedbadrul1234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shah-tajbid-tousif-5a3151211" height="30" width="40" /></a>
-<a href="https://www.facebook.com/badrulrahman.khan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shah.tousif.1" height="30" width="40" /></a>
-<a href="https://www.instagram.com/muhammad__badrul_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahtousif" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Hellobadrul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="tajbidtousif" height="30" width="40" /></a>
-<a href="https://discord.gg/badrulalom#9262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Butcher#2617" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/takrim-elahi-chowdhury-48099a1bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shah-tajbid-tousif-5a3151211" height="30" width="40" /></a>
+<a href="https://www.facebook.com/takrimelahichowdhury.takrim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shah.tousif.1" height="30" width="40" /></a>
+<a href="https://www.instagram.com/takrim.chy/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahtousif" height="30" width="40" /></a>
+<a href="https://leetcode.com/TakrimChy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="tajbidtousif" height="30" width="40" /></a>
+<a href="https://discord.gg/Takrim#4160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Butcher#2617" height="30" width="40" /></a>
 </p>
 
-- 👀 I’m interested in Machine Learning, Artificial Intelligence, Algorithms
+- 👀 I’m interested in Backend Engineering, Machine Learning ,Artificial Intelligence, Algorithms, SQL
 - 📫 To reach me: elahitakrim@gmail.com
 
 
