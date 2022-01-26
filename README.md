@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Takrim Elahi Chowdhury</h1>
-<h3 align="center">Third year student, B.Sc.(hons.) on Computer Science & Engineering, Leading University, Sylhet, Bangladesh.</h3>
+<h3 align="center">B.Sc.(hons.) on Computer Science & Engineering, Leading University, Sylhet, Bangladesh.</h3>
 
 ### My Github Stats
 ![Profile views](https://gpvc.arturio.dev/Takrimelahichowdhury)
