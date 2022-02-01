@@ -18,6 +18,7 @@
 <a href="https://leetcode.com/TakrimChy/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="tajbidtousif" height="30" width="40" /></a>
 <a href="https://discord.gg/Takrim#4160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Butcher#2617" height="30" width="40" /></a>
 </p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takrimelahichowdhury&hide=TeX&layout=compact" alt="Takrimelahichowdhury" /></a></p>
 
 - 👀 I’m interested in Backend Engineering, Machine Learning ,Artificial Intelligence, Algorithms, Database
 - 📫 To reach me: elahitakrim@gmail.com
