@@ -22,6 +22,12 @@
 - 👀 I’m interested in Backend Engineering, Machine Learning ,Artificial Intelligence, Algorithms, Database
 - 📫 To reach me: elahitakrim@gmail.com
 
+![Takrim's github activity graph](https://activity-graph.herokuapp.com/graph?username=Takrimelahichowdhury&bg_color=0d1117&color=ffffff&line=11ff00&point=ffffff&area=true&hide_border=false)
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="takrim-elahi-chowdhury-48099a1bb" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/takrim-elahi-chowdhury-48099a1bb?trk=profile-badge">Takrim Elahi Chowdhury</a></div>
+              
+
+
 
 
 
