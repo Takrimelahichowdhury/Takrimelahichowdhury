@@ -30,7 +30,7 @@
 </p>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takrimelahichowdhury&hide=TeX&layout=compact" alt="Takrimelahichowdhury" /></a></p>
 
-- 👀 I’m interested in Front-End Development, Machine Learning, Data Analysis, Algorithms, Database
+- 👀 I specialize in Front-End Development, Machine Learning, and Data Analysis.
 - 📫 To reach me: elahitakrim@gmail.com
 
 
