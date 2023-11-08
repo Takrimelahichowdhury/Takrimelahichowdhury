@@ -2,7 +2,6 @@
 <h3 align="center">B.Sc.(hons.) on Computer Science & Engineering, Leading University, Sylhet, Bangladesh.</h3>
 
 ### My Github Stats
-![Profile views](https://gpvc.arturio.dev/Takrimelahichowdhury)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Takrimelahichowdhury&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
@@ -20,7 +19,7 @@
 </p>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takrimelahichowdhury&hide=TeX&layout=compact" alt="Takrimelahichowdhury" /></a></p>
 
-- 👀 I’m interested in Backend Engineering, Machine Learning ,Artificial Intelligence, Algorithms, Database
+- 👀 I’m interested in Front-End Development, Machine Learning, Data Analyst, Algorithms, Database
 - 📫 To reach me: elahitakrim@gmail.com
 
 
